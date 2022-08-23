@@ -133,7 +133,7 @@ function Header() {
                         {currentUser ? (
                             <Image
                                 className={cx('user-avatar')}
-                                src="https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1678520746753026.jpeg?x-expires=1660845600&x-signature=nLILzsZ84%2FCtEiVo%2BvUW7Ow9eIw%3D"
+                                src="https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tiktok-obj/1678520746753026.jpeg?x-expires=1661335200&x-signature=KcnFn5qytov56b%2FaF3EfBkwe5%2Bc%3D"
                                 alt="Dinh Huu Tai"
                                 fallback=""
                             />
