@@ -19,6 +19,7 @@ MenuItem.propTypes = {
     title: PropTypes.string.isRequired,
     to: PropTypes.string.isRequired,
     icon: PropTypes.node.isRequired,
+    iconActive: PropTypes.node.isRequired,
 };
 
 export default MenuItem;

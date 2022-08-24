@@ -11,8 +11,6 @@
     font-family: var(--font-family);
     cursor: pointer;
     background-color: var(--white);
-    line-height: var(--default-layout-line-height-a-button);
-
     border: 1px solid transparent;
 
     + .wrapper {
@@ -50,6 +48,7 @@
 }
 
 .primary {
+    line-height: 0;
     color: var(--white);
     background-color: var(--primary);
     border-color: var(--primary);
